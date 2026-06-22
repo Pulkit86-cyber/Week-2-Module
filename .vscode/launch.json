@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/pulkitmittal230207icloud.com/Week-2-Module",
+      "program": "/Users/pulkitmittal230207icloud.com/Week-2-Module/build/Debug/outDebug"
+    }
+  ]
+}
